@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#08f10e",
+        "primaryColor": "#5b686b",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -720,6 +720,12 @@
             },
             ".mbr-overlay ~ .container-slide": {
               "z-index": "auto"
+            },
+            "P": {
+              "text-align": "center"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_name": "slider1",
@@ -748,15 +754,15 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "CARS",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Toyota\n<br>Suzuki\n<br>Mitsubishi\n<br>Kia\n<br>Ford \n<br>Nissan",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ALL CARS HERE</a> "
+                "text": "Toyota, Suzuki, Mitsubishi, Kia, Ford, Nissan",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ALL CARS HERE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-5.jpg",
@@ -767,15 +773,15 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "TRUCKS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Isuzu Elf, Isuzu Forward\n<br>Fuso, Mitsubishi canter&nbsp;<br>Mazda bongo\n<br>Suzuki \n<br>Himo\n<br>Kia",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL TRUCKS HERE</a> "
+                "text": "Isuzu Elf, Isuzu Forward, Fuso, Mitsubishi Canter,<br>Mazda bongo, Suzuki, Hino, Kia",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL TRUCKS HERE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
@@ -786,14 +792,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-5",
+                "customStyle2": "display-2",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "HEAVY EQUIPMENTS",
+                "textTitle": "HEAVY EQUIPMENT",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Dumptruck/ Mini dump\n<br>Backhoe excavator\n<br>Crane\n<br>Payloader/ Mini loader\n<br>Road roller\n<br>Boom truck\n<br>Self-loader",
+                "text": "Dumptruck, Mini dump, Backhoe Excavator, Crane\nPayloader, <br>Mini Loader, Road Roller, Boom Truck, Self-Loader",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL HEAVY EQUIPMENTS HERE</a> "
               }
             ]
