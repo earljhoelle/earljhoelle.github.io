@@ -1363,6 +1363,74 @@ section.lazy-placeholder:after {
 .cid-s2Cqe1Z6Md H2 {
   text-align: center;
 }
+.cid-s2IbTkUpST {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #ffffff, #efefef);
+}
+.cid-s2IbTkUpST .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
+.cid-s2IbTkUpST .mbr-text,
+.cid-s2IbTkUpST .mbr-section-btn {
+  color: #232323;
+}
+.cid-s2IbTkUpST .mbr-section-title {
+  color: #232323;
+}
+.cid-s2IheZxiPT {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s2IheZxiPT .mbr-text {
+  color: #767676;
+}
+.cid-s2Ik7n0iU1 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s2Ik7n0iU1 h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-s2Ik7n0iU1 p {
+  color: #767676;
+}
+.cid-s2Ik7n0iU1 .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-s2Ik7n0iU1 .card-wrapper .card-box {
+  padding: 2rem;
+  width: 100%;
+}
+.cid-s2Ik7n0iU1 .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-s2Ik7n0iU1 .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-s2Ik7n0iU1 .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-s2Ik7n0iU1 .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-s2Ik7n0iU1 .cost {
+  text-align: right;
+  color: #232323;
+}
 .cid-s2E6C3sybU {
   padding-top: 45px;
   padding-bottom: 0px;
@@ -1559,6 +1627,18 @@ section.lazy-placeholder:after {
   .cid-s2HXJHoe2J .form-group {
     margin: 0;
   }
+}
+.cid-s2IbL39Puf {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-s2IbSDjfuI {
+  background: linear-gradient(45deg, #e4d295, #ff3366);
+}
+.cid-s2IbSDjfuI .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
 .cid-s2CwgiHzs3 .navbar {
   padding: .5rem 0;
