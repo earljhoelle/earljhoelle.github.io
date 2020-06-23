@@ -746,7 +746,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -765,7 +765,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-warning\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ALL CARS HERE</a> "
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1916x1080.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
