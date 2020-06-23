@@ -725,7 +725,8 @@
               "text-align": "center"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#f7ed4a"
             }
           },
           "_name": "slider1",
@@ -754,7 +755,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
@@ -773,14 +774,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "TRUCKS",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Isuzu Elf, Isuzu Forward, Fuso, Mitsubishi Canter,<br>Mazda bongo, Suzuki, Hino, Kia",
+                "text": "Isuzu Elf, Isuzu Forward, Fuso, Mitsubishi Canter, Mazda Bongo, Suzuki, Hino, Kia",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL TRUCKS HERE</a> "
               },
               {
@@ -792,14 +793,14 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-2",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
                 "textTitle": "HEAVY EQUIPMENT",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Dumptruck, Mini dump, Backhoe Excavator, Crane\nPayloader, <br>Mini Loader, Road Roller, Boom Truck, Self-Loader",
+                "text": "Dumptruck, Mini dump, Backhoe Excavator, Crane\nPayloader, Mini Loader, Road Roller, Boom Truck, Self-Loader",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL HEAVY EQUIPMENTS HERE</a> "
               }
             ]
