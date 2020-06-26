@@ -785,7 +785,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Isuzu Elf, Isuzu Forward, Fuso, Mitsubishi Canter, Mazda Bongo, Suzuki, Hino, Kia",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL TRUCKS HERE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ALL TRUCKS HERE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr.jpg",
@@ -804,7 +804,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Dumptruck, Mini dump, Backhoe Excavator, Crane\nPayloader, Mini Loader, Road Roller, Boom Truck, Self-Loader",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">ALL HEAVY EQUIPMENTS HERE</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info display-4\" data-app-placeholder=\"Type Text\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">ALL HEAVY EQUIPMENTS HERE</a> "
               }
             ]
           }
