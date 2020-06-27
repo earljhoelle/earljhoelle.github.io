@@ -827,7 +827,7 @@
               "letter-spacing": "1rem"
             },
             ".mbr-text, .mbr-section-btn": {
-              "color": "#232323"
+              "color": "#073b4c"
             },
             ".mbr-section-title": {
               "color": "#232323"
